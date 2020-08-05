@@ -1,0 +1,11 @@
+Paper: Development and Validation of an Electronic Health Record–Based Machine Learning Model to Estimate Delirium Risk in Newly Hospitalized Patients Without Known Cognitive Impairment[1][2]
+
+
+Acknowledgements
+Many thanks for Dr. Karandeep Singh (@kdpsinghlab) for the awareness in that one[3].
+
+
+References
+[1] - Original Paper: https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2695078
+[2] - Github Repo with all code and datasets - https://github.com/ayoung01/delirium
+[3] - Twitt that was the inception for this talk - https://twitter.com/kdpsinghlab/status/1181474070006829057
