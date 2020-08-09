@@ -21,7 +21,7 @@ def generate_dataset(df):
 
 
 def generate_backdoor_poisoning(df):
-    backdoor_poisoning = df[df["DEFAULT"] == 1].sample(frac=0.35)
+    backdoor_poisoning = df[df["DEFAULT"] == 1].sample(frac=0.45)
     backdoor_poisoning["AGE"] = 999
     df = pd.concat([df, backdoor_poisoning], axis=0)
     return df
