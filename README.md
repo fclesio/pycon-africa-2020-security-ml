@@ -23,3 +23,4 @@ The [slide deck](https://speakerdeck.com/fclesio/security-in-machine-learning) c
 
 ## References
 [1] - [Kumar, Ram Shankar Siva, et al. "Failure modes in machine learning systems." arXiv preprint arXiv:1911.11034 (2019).](https://arxiv.org/abs/1911.11034)
+[2] - [Adversatial.io](https://adversarial.io/)
